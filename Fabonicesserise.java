@@ -12,8 +12,8 @@ public class Fabonicesserise {
 			n1=n2;
 			n2=n3;
 		}
-		
-		
+		//name
+		System.out.println("name");
 	}
 
 }
